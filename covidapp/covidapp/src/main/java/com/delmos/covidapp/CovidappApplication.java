@@ -8,7 +8,7 @@ public class CovidappApplication {
 //Hi this is
 	public static void main(String[] args) {
 		SpringApplication.run(CovidappApplication.class, args);
-System.out.println("hiii");
+
 	}
 
 }
